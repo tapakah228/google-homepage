@@ -1,2 +1,3 @@
 # google-homepage
-my first repository on github.com
+google copy
+codenamecrud.ru

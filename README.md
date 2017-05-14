@@ -1,3 +1,3 @@
 # google-homepage
-google copy
-codenamecrud.ru
+#google copy
+#codenamecrud.ru
